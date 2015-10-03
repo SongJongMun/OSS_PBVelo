@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="title_activity_main">Room</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="app_name">Velo</string>
+    <string name="hint_email">ID</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="action_contact">Contact</string>
+    <string name="title_activity_listview">ListviewActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_friends_list">FriendsListActivity</string>
+    <string name="title_activity_log_room">LogRoomActivity</string>
+    <string name="title_activity_select_friend">SelectFriendActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+	
+	<string name="str_done">완료</string>
+</resources>

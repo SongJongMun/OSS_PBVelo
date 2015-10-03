@@ -1,0 +1,96 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}"
+    android:background="@color/bg_login">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout"
+        android:weightSum="1">
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:text="라이딩 시작"
+        android:id="@+id/btnPageSlide"
+        android:background="#ffffff"
+        android:textColor="@color/bg_login"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome"
+        android:textSize="40dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:layout_marginTop="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#ffffff"
+        android:text="@string/btn_logout"
+        android:textAllCaps="false"
+        android:textColor="@color/bg_login"
+        android:textSize="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+   <!-- <Button
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:text="친구목록"
+        android:id="@+id/btnFriendList"
+        android:onClick="toFriendList"
+        android:textColor="@color/bg_login"
+        android:background="#ffffff"
+        android:layout_alignTop="@+id/btnPageSlide"
+        android:layout_alignRight="@+id/linearLayout"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_marginRight="25dp"
+        android:layout_marginEnd="25dp" />-->
+
+    <!--<Button-->
+        <!--android:layout_width="130dp"-->
+        <!--android:layout_height="70dp"-->
+        <!--android:text="설정"-->
+        <!--android:id="@+id/btnSetting"-->
+        <!--android:onClick="toSetting"-->
+        <!--android:textColor="@color/bg_login"-->
+        <!--android:background="#ffffff"-->
+        <!--android:layout_alignTop="@+id/linearLayout"-->
+        <!--android:layout_alignLeft="@+id/btnFriendList"-->
+        <!--android:layout_alignStart="@+id/btnFriendList" />-->
+
+    <!--<Button-->
+        <!--android:layout_width="130dp"-->
+        <!--android:layout_height="70dp"-->
+        <!--android:text="기록실"-->
+        <!--android:id="@+id/btnLogRoom"-->
+        <!--android:onClick="toLogRoom"-->
+        <!--android:background="#ffffff"-->
+        <!--android:textColor="@color/bg_login"-->
+        <!--android:layout_alignTop="@+id/linearLayout"-->
+        <!--android:layout_alignLeft="@+id/linearLayout"-->
+        <!--android:layout_alignStart="@+id/linearLayout"-->
+        <!--android:layout_marginLeft="26dp"-->
+        <!--android:layout_marginStart="26dp" />-->
+
+</RelativeLayout>

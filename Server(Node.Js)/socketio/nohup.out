@@ -1,0 +1,722 @@
+Server listening at port 3000
+Connect Some Users
+Connect Some Users
+Wwww : Joined - 1
+null : Joined - 2
+null : Joined - 3
+Wwww : Joined - 4
+null : Joined - 5
+Wwww : Joined - 6
+Wwww : Joined - 7
+Server listening at port 3000
+Connect Some Users
+Wwww : Joined - 1
+Connect Some Users
+Connect Some Users
+Connect Some Users
+오준영 : Joined - 1
+Connect Some Users
+오준영 : Joined - 1
+Connect Some Users
+오준영 : Joined - 1
+Connect Some Users
+Connect Some Users
+Connect Some Users
+null : Joined - 1
+오준영 : Joined - 2
+Connect Some Users
+오준영 : Joined - 2
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Connect Some Users
+Server listening at port 3000
+Server listening at port 3000
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+Wwww : Joined - 1 to standBy Room
+Wwwwwas joined room : room
+null : Joined - 2 to standBy Room
+Wwww : Joined - 3 to standBy Room
+Wwwwwas joined room : room
+Wwww : Joined - 4 to standBy Room
+Wwwwwas joined room : room
+Wwww : Joined - 5 to standBy Room
+Wwwwwas joined room : room
+Wwww : Joined - 6 to standBy Room
+SomeOne was Connted
+Wwww : Joined - 7 to standBy Room
+SomeOne was Connted
+undefinedwas joined room : room
+Server listening at port 3000
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+SomeOne was Connted
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+undefinedwas joined room : room
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+Wwww : Joined - 1 to standBy Room
+Wwwwwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+undefinedwas joined room : room
+SomeOne was Connted
+null : Joined - 2 to standBy Room
+SomeOne was Connted
+Wwww : Joined - 3 to standBy Room
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at Object.<anonymous> (/var/www/node/socketio/examples/chat/index.js:9:8)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+Server listening at port 3000
+SomeOne was Connted
+song : Joined - 1 to standBy Room
+songwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+Server listening at port 3000
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+SomeOne was Connted
+SomeOne was Connted
+undefinedwas joined room : room
+SomeOne was Connted
+Server listening at port 3000
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+Server listening at port 3000
+SomeOne was Connted
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+user : undefined was Enter room :: room
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+song : Joined : 1 : to standBy Room
+user : song was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+SomeOne was Connted
+song : Joined : 2 : to standBy Room
+user : song was Enter room :: room
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+user : undefined was Enter room :: room
+null : Joined : 3 : to standBy Room
+user : null was Enter room :: room
+SomeOne was Connted
+song : Joined : 4 : to standBy Room
+user : song was Enter room :: room
+SomeOne was Connted
+SomeOne was Connted
+SomeOne was Connted
+SomeOne was Connted
+SomeOne was Connted
+Server listening at port 3000
+SomeOne was Connted
+null : Joined : 1 : to standBy Room
+null : Joined : 2 : to standBy Room
+user : null was Enter room :: null
+SomeOne was Connted
+user : undefined was make room and Enter
+user : undefined was make room and Enter
+null : Joined : 3 : to standBy Room
+null : Joined : 4 : to standBy Room
+SomeOne was Connted
+null : Joined : 5 : to standBy Room
+오준영 : Joined : 6 : to standBy Room
+오준영 : Joined : 7 : to standBy Room
+user : 오준영 was Enter room :: 오준영
+user : 오준영 send data in room <오준영> - Sample Data
+Server listening at port 3000
+Server listening at port 3000
+SomeOne was Connted
+오준영 : Joined : 1 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+오준영 : Joined : 2 : to standBy Room
+user : 오준영 was left room :: standBy
+SomeOne was Connted
+user : undefined was Enter room :: room
+SomeOne was Connted
+song : Joined : 3 : to standBy Room
+user : song was Enter room :: Qwe
+song : Joined : 4 : to standBy Room
+user : song was left room :: standBy
+SomeOne was Connted
+song : Joined : 5 : to standBy Room
+user : song was Enter room :: Qwe
+Server listening at port 3000
+SomeOne was Connted
+user : undefined send data in room <undefined> - Data1
+오준영 : Joined : 1 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 send data in room <Qwe> - Data1
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data3
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 2 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 3 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 4 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 send data in room <Qwe> - Data1
+SomeOne was Connted
+오준영 : Joined : 5 : to standBy Room
+오준영 : Joined : 6 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 send data in room <Qwe> - Data6
+user : 오준영 send data in room <Qwe> - Data6
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 7 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 8 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 9 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+user : undefined was left room :: undefined
+SomeOne was Connted
+오준영 : Joined : 10 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 11 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data3
+user : 오준영 send data in room <Qwe> - Data1
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+user : undefined send data in room <undefined> - Data1
+user : undefined send data in room <undefined> - Data2
+user : undefined send data in room <undefined> - Data3
+user : undefined send data in room <undefined> - Data4
+user : undefined send data in room <undefined> - Data2
+user : undefined send data in room <undefined> - Data1
+user : undefined send data in room <undefined> - Data2
+user : undefined was left room :: undefined
+song : Joined : 12 : to standBy Room
+user : song was Enter room :: Qwe
+song : Joined : 13 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 14 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 15 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+오준영 : Joined : 16 : to standBy Room
+user : 오준영 was left room :: standBy
+SomeOne was Connted
+오준영 : Joined : 17 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 was left room :: Qwe
+SomeOne was Connted
+오준영 : Joined : 18 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+오준영 : Joined : 19 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 20 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+오준영 : Joined : 21 : to standBy Room
+user : 오준영 was left room :: standBy
+SomeOne was Connted
+오준영 : Joined : 22 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data1
+user : 오준영 send data in room <Qwe> - Data3
+user : 오준영 send data in room <Qwe> - Data5
+user : 오준영 send data in room <Qwe> - Data6
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data1
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data1
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data3
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data5
+user : 오준영 send data in room <Qwe> - Data6
+user : 오준영 send data in room <Qwe> - Data1
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data6
+user : 오준영 send data in room <Qwe> - Data5
+user : 오준영 send data in room <Qwe> - Data3
+user : 오준영 send data in room <Qwe> - Data2
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data6
+user : 오준영 send data in room <Qwe> - Data5
+user : 오준영 send data in room <Qwe> - Data3
+user : 오준영 send data in room <Qwe> - Data4
+user : 오준영 send data in room <Qwe> - Data6
+user : 오준영 send data in room <Qwe> - Data5
+user : 오준영 send data in room <Qwe> - Data3
+user : 오준영 send data in room <Qwe> - Data6
+SomeOne was Connted
+user : undefined was left room :: undefined
+song : Joined : 23 : to standBy Room
+user : song was Enter room :: Qwe
+song : Joined : 24 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 25 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+오준영 : Joined : 26 : to standBy Room
+user : 오준영 was left room :: standBy
+SomeOne was Connted
+오준영 : Joined : 27 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+오준영 : Joined : 28 : to standBy Room
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at Object.<anonymous> (/var/www/node/socketio/examples/chat/index.js:9:8)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+Server listening at port 3000
+SomeOne was Connted
+song : Joined : 1 : to standBy Room
+user : song was Enter room :: Qwe
+song : Joined : 2 : to standBy Room
+user : song was left room :: standBy
+SomeOne was Connted
+song : Joined : 3 : to standBy Room
+user : song was Enter room :: Qwe
+song : Joined : 4 : to standBy Room
+user : song was left room :: standBy
+Server listening at port 3000
+SomeOne was Connted
+Server listening at port 3000
+Server listening at port 3000
+SomeOne was Connted
+null : Joined : 1 : to standBy Room
+user : null was make room and Enter : null
+Missing error handler on `socket`.
+ReferenceError: roomNumber is not defined
+    at Socket.<anonymous> (/var/www/node/socketio/examples/chat/index.js:85:40)
+    at Socket.emit (events.js:92:17)
+    at Socket.onevent (/var/www/node/socketio/lib/socket.js:336:8)
+    at Socket.onpacket (/var/www/node/socketio/lib/socket.js:296:12)
+    at Client.ondecoded (/var/www/node/socketio/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/var/www/node/socketio/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/var/www/node/socketio/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/var/www/node/socketio/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/var/www/node/socketio/node_modules/engine.io/lib/socket.js:99:14)
+SomeOne was Connted
+Qwe : Joined : 2 : to standBy Room
+user : Qwe was make room and Enter : Qwe
+Missing error handler on `socket`.
+ReferenceError: roomNumber is not defined
+    at Socket.<anonymous> (/var/www/node/socketio/examples/chat/index.js:85:40)
+    at Socket.emit (events.js:92:17)
+    at Socket.onevent (/var/www/node/socketio/lib/socket.js:336:8)
+    at Socket.onpacket (/var/www/node/socketio/lib/socket.js:296:12)
+    at Client.ondecoded (/var/www/node/socketio/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/var/www/node/socketio/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/var/www/node/socketio/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/var/www/node/socketio/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/var/www/node/socketio/node_modules/engine.io/lib/socket.js:99:14)
+SomeOne was Connted
+오준영 : Joined : 3 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 4 : to standBy Room
+user : 오준영 was left room :: standBy
+SomeOne was Connted
+오준영 : Joined : 5 : to standBy Room
+오준영 : Joined : 6 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+SomeOne was Connted
+오준영 : Joined : 7 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 8 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 9 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 10 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 11 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 12 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 13 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 14 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 15 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 16 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 17 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 18 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 19 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 20 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 21 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 22 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 23 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 24 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 25 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 26 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 27 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 28 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 29 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 30 : to standBy Room
+Server listening at port 3000
+SomeOne was Connted
+SomeOne was Connted
+song : Joined : 1 : to standBy Room
+SomeOne was Connted
+song : Joined : 2 : to standBy Room
+SomeOne was Connted
+song : Joined : 3 : to standBy Room
+SomeOne was Connted
+SomeOne was Connted
+song : Joined : 4 : to standBy Room
+SomeOne was Connted
+song : Joined : 5 : to standBy Room
+song : Joined : 6 : to standBy Room
+user : song was Enter room :: Qwe
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: Qwe
+SomeOne was Connted
+song : Joined : 7 : to standBy Room
+SomeOne was Connted
+오준영 : Joined : 8 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 9 : to standBy Room
+SomeOne was Connted
+song : Joined : 10 : to standBy Room
+SomeOne was Connted
+song : Joined : 11 : to standBy Room
+song : Joined : 12 : to standBy Room
+user : song was Enter room :: android.widget.EditText{425abf18 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: android.widget.EditText{425abf18 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+SomeOne was Connted
+song : Joined : 13 : to standBy Room
+user : song was make room and Enter : song
+Missing error handler on `socket`.
+ReferenceError: roomNumber is not defined
+    at Socket.<anonymous> (/var/www/node/socketio/examples/chat/index.js:85:40)
+    at Socket.emit (events.js:92:17)
+    at Socket.onevent (/var/www/node/socketio/lib/socket.js:336:8)
+    at Socket.onpacket (/var/www/node/socketio/lib/socket.js:296:12)
+    at Client.ondecoded (/var/www/node/socketio/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/var/www/node/socketio/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/var/www/node/socketio/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/var/www/node/socketio/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/var/www/node/socketio/node_modules/engine.io/lib/socket.js:99:14)
+SomeOne was Connted
+song : Joined : 14 : to standBy Room
+user : song was Enter room :: android.widget.EditText{425abf18 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+SomeOne was Connted
+오준영 : Joined : 15 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 16 : to standBy Room
+user : song was left room :: android.widget.EditText{425abf18 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+user : 오준영 was left room :: standBy
+SomeOne was Connted
+song : Joined : 17 : to standBy Room
+song : Joined : 18 : to standBy Room
+user : song was Enter room :: android.widget.EditText{425a44c0 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: android.widget.EditText{425a44c0 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+SomeOne was Connted
+song : Joined : 19 : to standBy Room
+user : song was make room and Enter : song
+Missing error handler on `socket`.
+ReferenceError: roomNumber is not defined
+    at Socket.<anonymous> (/var/www/node/socketio/examples/chat/index.js:85:40)
+    at Socket.emit (events.js:92:17)
+    at Socket.onevent (/var/www/node/socketio/lib/socket.js:336:8)
+    at Socket.onpacket (/var/www/node/socketio/lib/socket.js:296:12)
+    at Client.ondecoded (/var/www/node/socketio/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/var/www/node/socketio/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/var/www/node/socketio/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/var/www/node/socketio/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/var/www/node/socketio/node_modules/engine.io/lib/socket.js:99:14)
+SomeOne was Connted
+오준영 : Joined : 20 : to standBy Room
+user : 오준영 was Enter room :: Qwe
+[ '오준영' ]
+[ '오준영' ]
+[ '오준영' ]
+오준영 : Joined : 21 : to standBy Room
+SomeOne was Connted
+song : Joined : 22 : to standBy Room
+user : song was Enter room :: android.widget.EditText{425a44c0 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: android.widget.EditText{425a44c0 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+SomeOne was Connted
+song : Joined : 23 : to standBy Room
+song : Joined : 24 : to standBy Room
+user : song was Enter room :: android.widget.EditText{42597e18 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: android.widget.EditText{42597e18 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+SomeOne was Connted
+song : Joined : 25 : to standBy Room
+user : song was make room and Enter : song
+Missing error handler on `socket`.
+ReferenceError: roomNumber is not defined
+    at Socket.<anonymous> (/var/www/node/socketio/examples/chat/index.js:85:40)
+    at Socket.emit (events.js:92:17)
+    at Socket.onevent (/var/www/node/socketio/lib/socket.js:336:8)
+    at Socket.onpacket (/var/www/node/socketio/lib/socket.js:296:12)
+    at Client.ondecoded (/var/www/node/socketio/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/var/www/node/socketio/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/var/www/node/socketio/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/var/www/node/socketio/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/var/www/node/socketio/node_modules/engine.io/lib/socket.js:99:14)
+SomeOne was Connted
+song : Joined : 26 : to standBy Room
+song : Joined : 27 : to standBy Room
+user : song was Enter room :: android.widget.EditText{425b3fb8 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: android.widget.EditText{425b3fb8 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+SomeOne was Connted
+song : Joined : 28 : to standBy Room
+user : song was make room and Enter : song
+Missing error handler on `socket`.
+ReferenceError: roomNumber is not defined
+    at Socket.<anonymous> (/var/www/node/socketio/examples/chat/index.js:85:40)
+    at Socket.emit (events.js:92:17)
+    at Socket.onevent (/var/www/node/socketio/lib/socket.js:336:8)
+    at Socket.onpacket (/var/www/node/socketio/lib/socket.js:296:12)
+    at Client.ondecoded (/var/www/node/socketio/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/var/www/node/socketio/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/var/www/node/socketio/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/var/www/node/socketio/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/var/www/node/socketio/node_modules/engine.io/lib/socket.js:99:14)
+SomeOne was Connted
+song : Joined : 29 : to standBy Room
+user : song was Enter room :: android.widget.EditText{425b3fb8 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: android.widget.EditText{425b3fb8 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+SomeOne was Connted
+song : Joined : 30 : to standBy Room
+song : Joined : 31 : to standBy Room
+user : song was Enter room :: android.widget.EditText{425cebb8 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+user : song was left room :: android.widget.EditText{425cebb8 VFED..CL .F...... 40,537-680,615 #7f0b0067 app:id/editText}
+SomeOne was Connted
+song : Joined : 32 : to standBy Room
+song : Joined : 33 : to standBy Room
+user : song was Enter room :: aaa
+[ 'song' ]
+[ 'song' ]
+[ 'song' ]
+Server listening at port 3000
